@@ -1,0 +1,1 @@
+This repo works through the book "C++ Concurrency In Action: Practical Multithreading" by Anthony Williams
