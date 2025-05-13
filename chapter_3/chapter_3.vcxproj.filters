@@ -15,22 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2_3_RAII.cpp">
+    <ClCompile Include="3_1_ProtectingList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2_4_DetachThread.cpp">
+    <ClCompile Include="3_2_AccidentallyPassingProtectedData.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2_2_PassingArgsToThreads.cpp">
+    <ClCompile Include="3_5_ThreadsafeStack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2_6_ScopedThread.cpp">
+    <ClCompile Include="3_6_SwapOperation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2_7_SpawnThreads.cpp">
+    <ClCompile Include="3_8_HierarchicalMutex.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2_8_ParallelAccumulate.cpp">
+    <ClCompile Include="3_9_SwapOperationUniqueLock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3_12_ThreadSafeLazyInit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3_13_ProtectingRarelyUpdatedStructure.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -139,7 +139,7 @@
     <ClCompile Include="2_3_RAII.cpp" />
     <ClCompile Include="2_4_DetachThread.cpp" />
     <ClCompile Include="2_6_ScopedThread.cpp" />
-    <ClCompile Include="2_7_SwapThreads.cpp" />
+    <ClCompile Include="2_7_SpawnThreads.cpp" />
     <ClCompile Include="2_8_ParallelAccumulate.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
